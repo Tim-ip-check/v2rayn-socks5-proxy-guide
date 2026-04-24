@@ -39,3 +39,11 @@
 ## 五、验证是否生效
 
 开启代理后，访问 IP 查询网站（如https://www.ipaddress.com/）， 显示的 IP 应为 S5 服务器的 IP，说明链式代理生效。或者测试目标网站 / 服务，确认网络访问正常。
+
+## 推荐
+
+IP检测工具 —— ToDetect
+
+[ToDetect](https://www.todetect.cn)是一款专业级浏览器指纹检测工具，可以一键检测IP纯净度、DNS泄露测试、WebRTC检测等浏览器信息，在线免费测试，无需下载，一键生成检测报告。
+
+![todetect](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/136_2fe1cd868b.png)
