@@ -40,7 +40,7 @@
 
 开启代理后，访问 IP 查询网站（如https://www.ipaddress.com/）， 显示的 IP 应为 S5 服务器的 IP，说明链式代理生效。或者测试目标网站 / 服务，确认网络访问正常。
 
-## 🎬 视频教程：https://youtu.be/TYagfP6_EHE
+## 🎬 视频教程：https://www.youtube.com/watch?v=YLHGM9XIZA0
 
 ## 推荐
 
