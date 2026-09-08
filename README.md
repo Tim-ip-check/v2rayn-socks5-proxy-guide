@@ -2,7 +2,7 @@
 
 对于做跨境业务的朋友来说，电脑上如何通过v2rayN代理使用Socks5 ip，操作如下【如果想看视频教程，请拉到最底部点击视频链接即可查看】：
 
-###注：使用前请自备Socks5 ip 或 通过[此链接注册购买IP](https://www.ipdeep.cn)
+### 注：使用前请自备Socks5 ip 或 通过[此链接注册购买IP](https://www.ipdeep.cn)
 
 ## 首先打开你的v2rayN
 
